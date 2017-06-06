@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">AndroidLearning</string>
     <string name="button1_text">You Clicked</string>
+    <string name="inputName">Type in your name</string>
+    <string name="btnNo">No</string>
+    <string name="btnNoHint">Don\'t Pick Me</string>
+    <string name="btnYes">Yes</string>
+    <string name="btnYesHint">Pick Me</string>
+    <string name="textView1">Are You Happy ?</string>
 </resources>
